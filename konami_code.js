@@ -30,3 +30,4 @@ function onKeyDownHandler(e) {
   }
   });
 }
+init();
