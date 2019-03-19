@@ -24,7 +24,7 @@ function onKeyDownHandler(e) {
     if( index === codes.length) {
       alert("Three Extra Lives!!!");
       index = 0;
-    } 
+    }
   } else {
     index = 0;
   }
